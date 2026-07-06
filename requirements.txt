@@ -1,0 +1,10 @@
+google-adk
+fastapi
+uvicorn
+pydantic
+pytest
+aiosqlite
+pytest-asyncio
+pypdf
+mcp
+fastmcp

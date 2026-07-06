@@ -1,0 +1,23 @@
+# Environment
+.env
+
+# Databases
+career_navigator.db
+*.db
+*.sqlite
+
+# Gmail credentials
+credentials.json
+token.json
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+.venv/
+
+# IDE
+.vscode/
+.idea/
